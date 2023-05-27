@@ -1,11 +1,11 @@
 # BookMySalon-DSA
-A Salon Booking System - Your one-stop destination for all your beauty needs!
-
 Having trouble finding salons near you?
 
 Trouble finding best rated salons?
 
 Want to book an appointment in the nearest salons without hassle?
+
+Then BookMySalon, a Salon Booking System is your one-stop destination for all your beauty needs!
 
 Overview:
 1. Booking System that finds the nearest salons to your current location.
