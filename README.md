@@ -5,7 +5,7 @@ Trouble finding best rated salons?
 
 Want to book an appointment in the nearest salons without hassle?
 
-Then BookMySalon, a Salon Booking System is your one-stop destination for all your beauty needs!
+Then BookMySalon, a Salon Booking System, is your one-stop destination for all your beauty needs!
 
 Overview:
 1. Booking System that finds the nearest salons to your current location.
@@ -18,3 +18,6 @@ Overview:
 7. Sorting and Filtering - Sort Salons based on users preference using QuickSort algorithm
   (i.e Ratings or Proximity)
 8. Booking and Cancelling Functionality - Allows user to select a preferred salon, service and desired time slot for booking as well as cancelling appointments that exist    in the database of the system - using data structures like circular queue.
+
+Created by:
+Rubab Shah and Mahrukh Yousuf
